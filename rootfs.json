@@ -1,0 +1,31 @@
+{
+  "v22_3": {
+    "amd64": "https://kali.download/nethunter-images/kali-2022.3/rootfs/kalifs-amd64-full.tar.xz",
+    "arm64": "https://kali.download/nethunter-images/kali-2022.3/rootfs/kalifs-arm64-full.tar.xz",
+    "armhf": "https://kali.download/nethunter-images/kali-2022.3/rootfs/kalifs-armhf-full.tar.xz",
+    "i386": "https://kali.download/nethunter-images/kali-2022.3/rootfs/kalifs-i386-full.tar.xz"
+  },
+  "v22_2b": {
+    "amd64": "https://kali.download/nethunter-images/kali-2022.2b/rootfs/kalifs-amd64-full.tar.xz",
+    "arm64": "https://kali.download/nethunter-images/kali-2022.2b/rootfs/kalifs-arm64-full.tar.xz",
+    "armhf": "https://kali.download/nethunter-images/kali-2022.2b/rootfs/kalifs-armhf-full.tar.xz",
+    "i386": "https://kali.download/nethunter-images/kali-2022.2b/rootfs/kalifs-i386-full.tar.xz"
+  },
+
+  "v22_2": {
+    "amd64": "https://kali.download/nethunter-images/kali-2022.2/rootfs/kalifs-amd64-full.tar.xz",
+    "arm64": "https://kali.download/nethunter-images/kali-2022.2/rootfs/kalifs-arm64-full.tar.xz",
+    "armhf": "https://kali.download/nethunter-images/kali-2022.2/rootfs/kalifs-armhf-full.tar.xz",
+    "i386": "https://kali.download/nethunter-images/kali-2022.2/rootfs/kalifs-i386-full.tar.xz"
+  },
+
+  "v22_1": {
+    "amd64": "https://kali.download/nethunter-images/kali-2022.1/rootfs/kalifs-amd64-full.tar.xz",
+    "arm64": "https://kali.download/nethunter-images/kali-2022.1/rootfs/kalifs-arm64-full.tar.xz",
+    "armhf": "https://kali.download/nethunter-images/kali-2022.1/rootfs/kalifs-armhf-full.tar.xz",
+    "i386": "https://kali.download/nethunter-images/kali-2022.1/rootfs/kalifs-i386-full.tar.xz"
+  }
+
+
+
+}

@@ -1,220 +1,220 @@
 [
 
   {
-    "Address 1": "71 ST. NICHOLAS DRIVE",
-    "Address 2": "",
+    "Address1": "71 ST. NICHOLAS DRIVE",
+    "Address2": "",
     "City": "NORTH POLE",
     "State": "FAIRBANKS NORTH STAR",
-    "State Short": "AK",
-    "Zip Code": "99705",
-    "Phone Number": "(907) 488-6419"
+    "Short": "AK",
+    "Zip": "99705",
+    "Phone": "(907) 488-6419"
 },
 
 
   {
-    "Address 1": "356 OLD STEESE HWY",
-    "Address 2": "",
+    "Address1": "356 OLD STEESE HWY",
+    "Address2": "",
     "City": "FAIRBANKS",
     "State": "FAIRBANKS NORTH STAR",
-    "State Short": "AK",
-    "Zip Code": "99701",
-    "Phone Number": "(907) 459-2355"
+    "Short": "AK",
+    "Zip": "99701",
+    "Phone": "(907) 459-2355"
 },
 
   {
-    "Address 1": "3576 AIRPORT WAY",
-    "Address 2": "UNIT 9",
+    "Address1": "3576 AIRPORT WAY",
+    "Address2": "UNIT 9",
     "City": "FAIRBANKS",
     "State": "FAIRBANKS NORTH STAR",
-    "State Short": "AK",
-    "Zip Code": "99709",
-    "Phone Number": "(907) 451-1942"
+    "Short": "AK",
+    "Zip": "99709",
+    "Phone": "(907) 451-1942"
 
 },
 
   {
-    "Address 1": "9400 GLACIER HWY",
-    "Address 2": "SUITE 1",
+    "Address1": "9400 GLACIER HWY",
+    "Address2": "SUITE 1",
     "City": "JUNEAU",
     "State": "JUNEAU",
-    "State Short": "AK",
-    "Zip Code": "99803",
-    "Phone Number": "(907) 790-3637"
+    "Short": "AK",
+    "Zip": "99803",
+    "Phone": "(907) 790-3637"
 
   },
 
   {
-    "Address 1": "201 KATLIAN ST",
-    "Address 2": "STE. 108",
+    "Address1": "201 KATLIAN ST",
+    "Address2": "STE. 108",
     "City": "SITKA",
     "State": "SITKA",
-    "State Short": "AK",
-    "Zip Code": "99835",
-    "Phone Number": "(907) 747-3617"
+    "Short": "AK",
+    "Zip": "99835",
+    "Phone": "(907) 747-3617"
 
   },
 
   {
-    "Address 1": "2417 TONGASS AVE",
-    "Address 2": "SUITE 109",
+    "Address1": "2417 TONGASS AVE",
+    "Address2": "SUITE 109",
     "City": "KETCHIKAN",
     "State": "KETCHIKAN",
-    "State Short": "AK",
-    "Zip Code": "99901",
-    "Phone Number": "(907) 247-2880"
+    "Short": "AK",
+    "Zip": "99901",
+    "Phone": "(907) 247-2880"
 
     },
 
   {
-    "Address 1": "402 W. MARINE WAY",
-    "Address 2": "SUITE 100 - SHIPS BUILDING",
+    "Address1": "402 W. MARINE WAY",
+    "Address2": "SUITE 100 - SHIPS BUILDING",
     "City": "KODIAK",
     "State": "KODIAK ISLAND",
-    "State Short": "AK",
-    "Zip Code": "99615",
-    "Phone Number": "(907) 481-2981"
+    "Short": "AK",
+    "Zip": "99615",
+    "Phone": "(907) 481-2981"
 
       },
 
   {
-    "Address 1": "3726 LAKE STREET",
-    "Address 2": "SUITE F",
+    "Address1": "3726 LAKE STREET",
+    "Address2": "SUITE F",
     "City": "HOMER",
     "State": "KENAI PENINSULA",
-    "State Short": "AK",
-    "Zip Code": "99603",
-    "Phone Number": "(907) 235-4730"
+    "Short": "AK",
+    "Zip": "99603",
+    "Phone": "(907) 235-4730"
 
         },
 
   {
-    "Address 1": "35553 KENAI SPUR HIGHWAY",
-    "Address 2": "",
+    "Address1": "35553 KENAI SPUR HIGHWAY",
+    "Address2": "",
     "City": "SOLDOTNA",
     "State": "KENAI PENINSULA",
-    "State Short": "AK",
-    "Zip Code": "99669",
-    "Phone Number": "(907) 262-7090"
+    "Short": "AK",
+    "Zip": "99669",
+    "Phone": "(907) 262-7090"
 
           },
 
   {
-    "Address 1": "10672 KENAI SPUR HIGHWAY",
-    "Address 2": "SUITE 106",
+    "Address1": "10672 KENAI SPUR HIGHWAY",
+    "Address2": "SUITE 106",
     "City": "KENAI",
     "State": "KENAI PENINSULA",
-    "State Short": "AK",
-    "Zip Code": "99611",
-    "Phone Number": "(907) 283-4402"
+    "Short": "AK",
+    "Zip": "99611",
+    "Phone": "(907) 283-4402"
 
             },
 
   {
-    "Address 1": "1830 E. PARKS HWY",
-    "Address 2": "SUITE A 112",
+    "Address1": "1830 E. PARKS HWY",
+    "Address2": "SUITE A 112",
     "City": "WASILLA",
     "State": "MATANUSKA-SUSITNA",
-    "State Short": "AK",
-    "Zip Code": "99654",
-    "Phone Number": "(907) 376-8159"
+    "Short": "AK",
+    "Zip": "99654",
+    "Phone": "(907) 376-8159"
 
               },
 
   {
-    "Address 1": "4711 BUSINESS PARK BLVD",
-    "Address 2": "STE. 10 BLDG 1",
+    "Address1": "4711 BUSINESS PARK BLVD",
+    "Address2": "STE. 10 BLDG 1",
     "City": "ANCHORAGE",
     "State": "ANCHORAGE",
-    "State Short": "AK",
-    "Zip Code": "99503",
-    "Phone Number": "(907) 561-3344"
+    "Short": "AK",
+    "Zip": "99503",
+    "Phone": "(907) 561-3344"
 
   },
 
   {
-    "Address 1": "320 W 5TH AVENUE",
-    "Address 2": "SUITE 304",
+    "Address1": "320 W 5TH AVENUE",
+    "Address2": "SUITE 304",
     "City": "ANCHORAGE",
     "State": "ANCHORAGE",
-    "State Short": "AK",
-    "Zip Code": "99501",
-    "Phone Number": "(907) 277-8707"
+    "Short": "AK",
+    "Zip": "99501",
+    "Phone": "(907) 277-8707"
 
     },
 
   {
-    "Address 1": "1865 E PARKS HWY",
-    "Address 2": "COTTONWOOD CREEK MALL",
+    "Address1": "1865 E PARKS HWY",
+    "Address2": "COTTONWOOD CREEK MALL",
     "City": "WASILLA",
     "State": "ANCHORAGE",
-    "State Short": "AK",
-    "Zip Code": "99654",
-    "Phone Number": "(907) 631-0350"
+    "Short": "AK",
+    "Zip": "99654",
+    "Phone": "(907) 631-0350"
 
       },
 
   {
-    "Address 1": "320 WEST 5TH AVE",
-    "Address 2": "SUITE 182 - 1ST FLOOR",
+    "Address1": "320 WEST 5TH AVE",
+    "Address2": "SUITE 182 - 1ST FLOOR",
     "City": "ANCHORAGE",
     "State": "ANCHORAGE",
-    "State Short": "AK",
-    "Zip Code": "99501",
-    "Phone Number": "(907) 258-2191"
+    "Short": "AK",
+    "Zip": "99501",
+    "Phone": "(907) 258-2191"
 
         },
 
   {
-    "Address 1": "600 E. NORTHERN LIGHTS BLVD. #E",
-    "Address 2": "SEARS MALL",
+    "Address1": "600 E. NORTHERN LIGHTS BLVD. #E",
+    "Address2": "SEARS MALL",
     "City": "ANCHORAGE",
     "State": "ANCHORAGE",
-    "State Short": "AK",
-    "Zip Code": "99503",
-    "Phone Number": "(907) 279-5288"
+    "Short": "AK",
+    "Zip": "99503",
+    "Phone": "(907) 279-5288"
 
           },
 
   {
-    "Address 1": "11432 BUSINESS BLVD",
-    "Address 2": "SUITE 2",
+    "Address1": "11432 BUSINESS BLVD",
+    "Address2": "SUITE 2",
     "City": "EAGLE RIVER",
     "State": "ANCHORAGE",
-    "State Short": "AK",
-    "Zip Code": "99577",
-    "Phone Number": "(907) 622-1725"
+    "Short": "AK",
+    "Zip": "99577",
+    "Phone": "(907) 622-1725"
 
             },
 
   {
-    "Address 1": "800 E DIMOND BLVD",
-    "Address 2": "SUITE 118",
+    "Address1": "800 E DIMOND BLVD",
+    "Address2": "SUITE 118",
     "City": "ANCHORAGE",
     "State": "ANCHORAGE",
-    "State Short": "AK",
-    "Zip Code": "99515",
-    "Phone Number": "(907) 336-3355"
+    "Short": "AK",
+    "Zip": "99515",
+    "Phone": "(907) 336-3355"
 
               },
 
   {
-    "Address 1": "1118 N MULDOON ROAD",
-    "Address 2": "SUITE 170",
+    "Address1": "1118 N MULDOON ROAD",
+    "Address2": "SUITE 170",
     "City": "ANCHORAGE",
     "State": "ANCHORAGE",
-    "State Short": "AK",
-    "Zip Code": "99504",
-    "Phone Number": "(907) 338-3282"
+    "Short": "AK",
+    "Zip": "99504",
+    "Phone": "(907) 338-3282"
 
                 },
   {
-    "Address 1": "124 E I-65 SERVICE RD NORTH",
-    "Address 2": "",
+    "Address1": "124 E I-65 SERVICE RD NORTH",
+    "Address2": "",
     "City": "MOBILE",
     "State": "MOBILE",
-    "State Short": "AL",
-    "Zip Code": "36607",
-    "Phone Number": "(251) 450-3561"
+    "Short": "AL",
+    "Zip": "36607",
+    "Phone": "(251) 450-3561"
 
   }
 

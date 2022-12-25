@@ -7,13 +7,9 @@ let zip = document.querySelector("#zip")
 let btn = document.querySelector("#btn")
 let data = document.querySelectorAll(".data")
 let copy1 = document.querySelector(".copy1")
+let name = document.querySelector("#name")
 
-ad1.disabled = true
-ad2.disabled = true
-city.disabled = true
-state.disabled = true
-phone.disabled = true
-zip.disabled = true
+
 
 let generate = () => {
   fetch("USA.json")
@@ -32,10 +28,13 @@ let generate = () => {
     })
 }
 
-
+nameGen()
 generate()
 
-btn.addEventListener("click", generate)
+btn.addEventListener("click", () => {
+  nameGen()
+  generate()
+})
 
 
 
@@ -56,14 +55,27 @@ Array.from(data).forEach((one) => {
     }, 1500)
 
 
-
-
-
-
-
-
-
   })
 
 
 })
+
+
+function nameGen() {
+  fetch("https://raw.githubusercontent.com/thm/uinames/master/names.json")
+    .then((res) => {
+      return res.json()
+    })
+    .then((data) => {
+      const m = data[57].male[Math.floor(Math.random() * 100)]
+      const f = data[57].female[Math.floor(Math.random() * 100)]
+
+      const s = data[57].surnames[Math.floor(Math.random() * 300)]
+
+      const mx = m + " " + s;
+      const fx = f + " " + s;
+      const arr = [mx, fx]
+      const fullName = arr[Math.floor(Math.random() * 2)]
+      name.innerHTML = fullName;
+    })
+}

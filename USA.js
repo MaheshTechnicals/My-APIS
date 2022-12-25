@@ -10,7 +10,7 @@ let copy1 = document.querySelector(".copy1")
 let name = document.querySelector("#name")
 
 
-
+/* USA Adress gen*/
 let generate = () => {
   fetch("USA.json")
     .then((res) => {
@@ -27,40 +27,33 @@ let generate = () => {
 
     })
 }
-
 nameGen()
 generate()
 
+
+/* Gebrate button on click */
 btn.addEventListener("click", () => {
   nameGen()
   generate()
 })
 
 
-
-
-
-
+/*Adress Data insert*/
 Array.from(data).forEach((one) => {
-
   one.addEventListener("click", (e) => {
     let copy = e.currentTarget.innerHTML
     let cdata = navigator.clipboard.writeText(copy)
     e.target.style.background = "#38CC77"
     copy1.style.display = "block"
-
     setTimeout(() => {
       copy1.style.display = "none"
       e.target.style.background = "#207398"
     }, 1500)
-
-
   })
-
-
 })
 
 
+/* USA name gen*/
 function nameGen() {
   fetch("https://raw.githubusercontent.com/thm/uinames/master/names.json")
     .then((res) => {
@@ -69,9 +62,7 @@ function nameGen() {
     .then((data) => {
       const m = data[57].male[Math.floor(Math.random() * 100)]
       const f = data[57].female[Math.floor(Math.random() * 100)]
-
       const s = data[57].surnames[Math.floor(Math.random() * 300)]
-
       const mx = m + " " + s;
       const fx = f + " " + s;
       const arr = [mx, fx]

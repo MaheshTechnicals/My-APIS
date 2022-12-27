@@ -17,13 +17,13 @@ let generate = () => {
       return res.json()
     })
     .then((data) => {
-      let all = data[Math.floor(Math.random() * 20)]
-      ad1.innerHTML = all.Address1.toString().toLowerCase()
-      ad2.innerHTML = all.Address2.toString().toLowerCase()
-      city.innerHTML = all.City.toString().toLowerCase()
-      state.innerHTML = all.State.toString().toLowerCase() + " " + "(" + all.Short + ")"
-      phone.innerHTML = all.Phone
-      zip.innerHTML = all.Zip
+      let all = data[Math.floor(Math.random() * 2143)]
+      ad1.innerHTML = all.A.toString().toLowerCase()
+      ad2.innerHTML = all.B.toString().toLowerCase()
+      city.innerHTML = all.C.toString().toLowerCase()
+      state.innerHTML = all.D.toString().toLowerCase() + " " + "(" + all.E + ")"
+      phone.innerHTML = all.G
+      zip.innerHTML = all.F
 
     })
 }
